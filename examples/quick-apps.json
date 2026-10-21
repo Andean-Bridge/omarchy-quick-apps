@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "starterApps": [],
+  "hiddenApps": [],
+  "appAliases": {},
+  "learning": true,
+  "focusDelayMs": 1800,
+  "cooldownSeconds": 60,
+  "halfLifeDays": 14
+}
