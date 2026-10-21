@@ -4,7 +4,7 @@
   "name": "Quick Apps",
   "version": "0.1.0",
   "author": "Andean Bridge",
-  "description": "Your eight most-used apps in a compact, searchable grid. Learns locally and opens or focuses existing windows.",
+  "description": "Your eight most-used apps in a compact, searchable grid. Learns locally and opens or focuses existing windows. It is a simple and focused plugin designed to show you the most used apps to make it easier to launch. Bind to SUPER+R to open.",
   "license": "MIT",
   "homepage": "https://github.com/Andean-Bridge/omarchy-quick-apps",
   "kinds": ["menu"],
